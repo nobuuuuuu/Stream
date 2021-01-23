@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Soirée stream"
+date:   2021-01-15 19:00:00 +0100
+categories: jekyll update
+---
+
+![Le logo de Korsikaa](https://static-cdn.jtvnw.net/jtv_user_pictures/f42308bc-cbcb-4581-9062-3cb6e9dcbe4b-profile_image-70x70.png "Korsikaa")
+
+---
+### Planning participants
+
+|Genshin Impact|Phasmophobia|Rocket league|Skribblio|Among us|
+|---|---|---|---|---|
+|*21:00 -> 23:30*|*23:45 -> 01:45*|*01:45 -> NA*|*01:45 -> NA*|*01:45 -> NA*|
+|   |   |Yuurikko#5178|Yuurikko#5178|Yuurikko#5178|
+|   |   |NoName#4681|   |   |
+| | | |Queenie#2888|Queenie#2888|
+| | |JIY0S#9263| | |
+|Lifendyel#6564|Lifendyel#6564|Lifendyel#6564|Lifendyel#6564|Lifendyel#6564|
+| |Fleurs87#3802| | | |
+| |ShiruTV_#1804| | | |
+| | |Lykow.ADX#6747| |Lykow.ADX#6747|
+| | | | | |
+
+> `!play` affiche les modalités pour jouer avec moi
+
+### Acquérir les jeux
+
+* [Genshin Impact](https://genshin.mihoyo.com/ "Vers le site de Mihoyo")
+
+* [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/ "Vers le site de Steam")
+
+* [Rocket league](https://www.epicgames.com/store/fr/product/rocket-league/home "Vers le site de Epic Games")
+
+* [Skribblio](https://skribbl.io/ "Vers le site de Skribblio")
+
+* [Among us](https://store.steampowered.com/app/945360/Among_Us/ "Vers le site de Steam")
