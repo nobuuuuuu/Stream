@@ -20,8 +20,8 @@ categories: jekyll update
 |   |   |Stary#9464|JIY0S#9263
 |   |   |Queenie#2888|Shawnshlag#4166
 |   |   |falagraf#6463|NoName#4681
-|   |   |Shawnshlag#4166
-|   |   |onewara#4056
+|   |   |Shawnshlag#4166|Lifendyel#6564
+|   |   |onewara#4056|Fleurs87#3802
 |   |   |ShiruTV_#1804
 |   |   |Yuurikko#5178
 |   |   |lpoe#0808
